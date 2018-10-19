@@ -1,0 +1,73 @@
+body {
+
+
+    /* do we need */
+}
+ /* HEADER */
+header {
+    margin-top: 10px;
+    height: 45px;
+    /* do we need  */
+}
+
+nav {
+    width: 960px;
+    margin: 0px auto;
+    /* do we need */
+}
+
+nav img:first-of-type {
+    float: left;
+}
+
+nav ul {
+/* float: right; */
+    display: inline-block;
+    margin-left: 600px;
+}
+nav ul:last-of-type {
+
+    margin-left: 2px;
+  }
+
+nav li {
+    display: inline-block;
+}
+
+nav h1 {
+    font-size: 25px;
+    margin-left: 50px;
+    width: 400px;
+/* font cursive */
+}
+
+nav h2 {
+    font-size: 15px;
+    margin-top: 5px;
+    margin-left: 50px;
+    width: 400px;
+
+
+    /* font funky s and o */
+}
+
+/* MAIN */
+main {
+    width: 960px;
+    margin: 0px auto;
+}
+
+main h1 {
+    font-size: 45px;
+    font-family: Helvetica;
+    font-style: bold;
+    margin-top: 30px;
+}
+
+main h3 {
+    color: gray;
+}
+
+/* LIST on main */
+
+/* FOOTER */
